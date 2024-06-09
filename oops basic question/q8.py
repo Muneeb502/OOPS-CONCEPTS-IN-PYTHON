@@ -6,3 +6,6 @@ property for color. Override the make sound method to include the dog's color.
 Create an instance of the 'Dog' class and make it make its sound. 
 
 """
+
+class Animal :
+    
