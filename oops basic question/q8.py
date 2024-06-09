@@ -7,5 +7,7 @@ Create an instance of the 'Dog' class and make it make its sound.
 
 """
 
-class Animal :
-    
+class Animal():
+    def __init__(self,species,sound) -> None:
+        self.species = species
+        self.sound = sound
